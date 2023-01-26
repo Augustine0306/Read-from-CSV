@@ -27,7 +27,8 @@ print("rows",len(df.axes[0]))
 print("columns",len(df.axes[1]))
 ```
 ## OUTPUT:
-![output](CSV.png)
+![CSV](https://user-images.githubusercontent.com/119404460/214807335-f1527b2b-3c3e-4b0c-b88a-798fb9480064.png)
+
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
